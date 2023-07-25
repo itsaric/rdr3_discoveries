@@ -30,3 +30,4 @@ Prompt Type | Prompt Names | Default QWERTY Button
 7 | all lock on actions (aim weapon + emote wheel + melee + calm + flee + show info) | MOUSE RIGHT CLICK
 8 | sit | E
 12 | mount horse | E
+64 | ignite dynamite | E
